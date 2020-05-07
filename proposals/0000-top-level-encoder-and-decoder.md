@@ -3,7 +3,7 @@
 * Proposal: [SE-NNNN](NNNN-filename.md)
 * Authors: [Daniel Tull](https://github.com/danielctull), [Jasdev Singh](https://github.com/jasdev)
 * Review Manager: TBD
-* Status: **Awaiting implementation**
+* Status: **Awaiting feedback—WIP branch below**
 
 *During the review process, add the following fields as needed:*
 
