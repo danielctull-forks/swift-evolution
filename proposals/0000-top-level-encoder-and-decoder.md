@@ -2,22 +2,15 @@
 
 * Proposal: [SE-NNNN](NNNN-filename.md)
 * Authors: [Daniel Tull](https://github.com/danielctull), [Jasdev Singh](https://github.com/jasdev)
-* Review Manager: TBD
-* Status: **Awaiting feedback—WIP branch below**
-
-*During the review process, add the following fields as needed:*
-
+* Review Manager:
+* Status:
 * Implementation: [WIP branch](https://github.com/apple/swift/compare/master...jasdev:master)
-* Decision Notes: [Rationale](https://forums.swift.org/), [Additional Commentary](https://forums.swift.org/)
-* Bugs: [SR-NNNN](https://bugs.swift.org/browse/SR-NNNN), [SR-MMMM](https://bugs.swift.org/browse/SR-MMMM)
-* Previous Revision: [1](https://github.com/apple/swift-evolution/blob/...commit-ID.../proposals/NNNN-filename.md)
-* Previous Proposal: [SE-XXXX](XXXX-filename.md)
 
 ## Introduction
 
 This proposal introduces `TopLevelEncoder` and `TopLevelDecoder` protocols to the Standard Library (currently located in Combine), which are useful for representation-agnostic encoding and decoding of data.
 
-Swift Evolution thread: [Move Combine’s TopLevelEncoder and TopLevelDecoder protocols into the standard library](https://forums.swift.org/t/move-combines-toplevelencoder-and-topleveldecoder-protocols-into-the-standard-library/32494)
+Swift Evolution pitch thread: [Move Combine’s TopLevelEncoder and TopLevelDecoder protocols into the standard library](https://forums.swift.org/t/move-combines-toplevelencoder-and-topleveldecoder-protocols-into-the-standard-library/32494)
 
 ## Motivation
 
